@@ -1,7 +1,7 @@
 <h1 style="font-size:40px;">👋 Welcome to My GitHub Profile! </h1>
 
 <h2 style="font-size:40px;"> 🌟 About Me </h2>
-Hi, I'm Busile from South Africa, a passionate Data Scientist skilled in turning data into meaningful insights. 
+Hi, I'm Busile from South Africa, a passionate Data Analyst skilled in turning data into meaningful insights. 
 My expertise spans across:
 
    💻 SQL for advanced database management and optimization.
