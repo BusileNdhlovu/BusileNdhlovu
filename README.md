@@ -26,6 +26,7 @@ Data Exploration: Uncovering patterns and actionable insights.
 <h2 style="font-size:40px;"> 🚀 What You'll Find Here </h2>
 
 On my GitHub, I share:
+
    📂 SQL Projects: Best practices and creative approaches.
 
   ❄️ Snowflake Workflows: Scalable data solutions and models.
