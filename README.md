@@ -4,6 +4,7 @@
 Hi, I'm Busile from South Africa, a passionate Data Analyst skilled in turning data into meaningful insights. 
 My expertise spans across:
 
+
    💻 SQL for advanced database management and optimization.
 
    ❄️ Snowflake for scalable cloud data warehousing.
